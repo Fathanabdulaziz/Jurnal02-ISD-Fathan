@@ -26,6 +26,7 @@ public class POJO_Tugas {
     @Override
     public String toString() {
         return "\nMata Kuliah = " + Mata_Kuliah + ", tugas = " + Tugas + ", deadline = " + Deadline;
+    
     }
 }
    
